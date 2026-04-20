@@ -12,5 +12,11 @@ RealTime Question,
 Instant answer selection,
 Final score display
 
+All Questions
+![Screenshot](Quiz_ss.png)
+
+Answer Selection
+
+
 
 
