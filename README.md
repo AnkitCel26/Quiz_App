@@ -16,6 +16,10 @@ All Questions
 ![Screenshot](Quiz_ss.png)
 
 Answer Selection
+![Screenshot](Quiz_ss2.png)
+
+Final Score
+![Screenshot](Quiz_ss3.png)
 
 
 
